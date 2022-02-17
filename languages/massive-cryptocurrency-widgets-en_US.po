@@ -1,0 +1,573 @@
+# Massive Cryptocurrency Widgets
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Massive Cryptocurrency Widgets v1.0.0\n"
+"Report-Msgid-Bugs-To: Blocksera <admin@blocksera.com>\n"
+"POT-Creation-Date: 2018-07-12 17:12+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Blocksera Team <admin@blocksera.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin.php:6
+msgid "Widget Title"
+msgstr ""
+
+#: includes/admin.php:15 massive-cryptocurrency-widgets.php:324
+msgid "Widget Type"
+msgstr ""
+
+#: includes/admin.php:19 includes/admin.php:100 includes/admin.php:126
+msgid "Ticker"
+msgstr ""
+
+#: includes/admin.php:22 includes/admin.php:148 includes/admin.php:172
+msgid "Table"
+msgstr ""
+
+#: includes/admin.php:25
+msgid "Chart"
+msgstr ""
+
+#: includes/admin.php:28
+msgid "Card"
+msgstr ""
+
+#: includes/admin.php:31
+msgid "Label"
+msgstr ""
+
+#: includes/admin.php:34
+msgid "List"
+msgstr ""
+
+#: includes/admin.php:37
+msgid "Converter"
+msgstr ""
+
+#: includes/admin.php:44
+msgid "Coins"
+msgstr ""
+
+#: includes/admin.php:44 includes/admin.php:172
+msgid "Clear"
+msgstr ""
+
+#: includes/admin.php:49
+msgid "Select coin(s)"
+msgstr ""
+
+#: includes/admin.php:62
+msgid "or show top"
+msgstr ""
+
+#: includes/admin.php:71
+msgid "coins"
+msgstr ""
+
+#: includes/admin.php:77
+msgid "Ticker Position"
+msgstr ""
+
+#: includes/admin.php:100
+msgid "Color"
+msgstr ""
+
+#: includes/admin.php:103 includes/admin.php:327 includes/admin.php:367
+#: includes/admin.php:407
+msgid "White"
+msgstr ""
+
+#: includes/admin.php:106 includes/admin.php:339 includes/admin.php:379
+#: includes/admin.php:419
+msgid "Red"
+msgstr ""
+
+#: includes/admin.php:109
+msgid "Mid Night"
+msgstr ""
+
+#: includes/admin.php:112 includes/admin.php:342 includes/admin.php:382
+#: includes/admin.php:425
+msgid "Green"
+msgstr ""
+
+#: includes/admin.php:115 includes/admin.php:333 includes/admin.php:373
+#: includes/admin.php:413
+msgid "Blue"
+msgstr ""
+
+#: includes/admin.php:118 includes/admin.php:345 includes/admin.php:385
+#: includes/admin.php:422
+msgid "Custom Colors"
+msgstr ""
+
+#: includes/admin.php:126
+msgid "Speed"
+msgstr ""
+
+#: includes/admin.php:136 includes/admin.php:299 includes/admin.php:433
+msgid "Display Options"
+msgstr ""
+
+#: includes/admin.php:140
+msgid "Rounded"
+msgstr ""
+
+#: includes/admin.php:142
+msgid "24h Change"
+msgstr ""
+
+#: includes/admin.php:148
+msgid "Style"
+msgstr ""
+
+#: includes/admin.php:151 includes/admin.php:253
+msgid "Light"
+msgstr ""
+
+#: includes/admin.php:154 includes/admin.php:256 includes/admin.php:330
+#: includes/admin.php:370 includes/admin.php:410
+msgid "Dark"
+msgstr ""
+
+#: includes/admin.php:162
+msgid "Coins Per Page"
+msgstr ""
+
+#: includes/admin.php:172
+msgid "Columns"
+msgstr ""
+
+#: includes/admin.php:182 includes/shortcodes.php:95
+msgid "#"
+msgstr ""
+
+#: includes/admin.php:183 includes/shortcodes.php:96
+msgid "Coin"
+msgstr ""
+
+#: includes/admin.php:184 includes/admin.php:449 includes/shortcodes.php:97
+msgid "Symbol"
+msgstr ""
+
+#: includes/admin.php:185 includes/shortcodes.php:98
+#: includes/shortcodes.php:305 includes/shortcodes.php:329
+msgid "Price"
+msgstr ""
+
+#: includes/admin.php:186 includes/shortcodes.php:99
+msgid "Price (BTC)"
+msgstr ""
+
+#: includes/admin.php:187 includes/shortcodes.php:100
+#: includes/shortcodes.php:344 includes/shortcodes.php:358
+msgid "Marketcap"
+msgstr ""
+
+#: includes/admin.php:188 includes/shortcodes.php:101
+msgid "Volume (24h)"
+msgstr ""
+
+#: includes/admin.php:189 includes/shortcodes.php:102
+msgid "Supply"
+msgstr ""
+
+#: includes/admin.php:190 includes/shortcodes.php:103
+#: includes/shortcodes.php:338
+msgid "Change"
+msgstr ""
+
+#: includes/admin.php:191 includes/shortcodes.php:104
+msgid "Last 24h"
+msgstr ""
+
+#: includes/admin.php:210
+msgid "Chart Type"
+msgstr ""
+
+#: includes/admin.php:214
+msgid "Line"
+msgstr ""
+
+#: includes/admin.php:217
+msgid "Candlestick"
+msgstr ""
+
+#: includes/admin.php:224
+msgid "Default Chart View"
+msgstr ""
+
+#: includes/admin.php:228
+msgid "Day"
+msgstr ""
+
+#: includes/admin.php:231
+msgid "Week"
+msgstr ""
+
+#: includes/admin.php:234
+msgid "Month"
+msgstr ""
+
+#: includes/admin.php:237 includes/admin.php:240
+msgid "Months"
+msgstr ""
+
+#: includes/admin.php:243
+msgid "Year"
+msgstr ""
+
+#: includes/admin.php:250
+msgid "Chart Theme"
+msgstr ""
+
+#: includes/admin.php:259
+msgid "Light + Custom"
+msgstr ""
+
+#: includes/admin.php:262
+msgid "Dark + Custom"
+msgstr ""
+
+#: includes/admin.php:270
+msgid "Smooth Edges"
+msgstr ""
+
+#: includes/admin.php:274
+msgid "Yes"
+msgstr ""
+
+#: includes/admin.php:277
+msgid "No"
+msgstr ""
+
+#: includes/admin.php:284
+msgid "Converter Type"
+msgstr ""
+
+#: includes/admin.php:288
+msgid "Crypto to Fiat"
+msgstr ""
+
+#: includes/admin.php:289
+msgid "Fiat to Crypto"
+msgstr ""
+
+#: includes/admin.php:290
+msgid "Crypto to Crypto"
+msgstr ""
+
+#: includes/admin.php:291
+msgid "Fiat to Fiat"
+msgstr ""
+
+#: includes/admin.php:303
+msgid "Convert Button"
+msgstr ""
+
+#: includes/admin.php:309
+msgid "Card Design"
+msgstr ""
+
+#: includes/admin.php:312 includes/admin.php:313 includes/admin.php:314
+#: includes/admin.php:315 includes/admin.php:316 includes/admin.php:317
+#: includes/admin.php:318 includes/admin.php:356 includes/admin.php:357
+#: includes/admin.php:358 includes/admin.php:396 includes/admin.php:397
+#: includes/admin.php:398
+msgid "Design"
+msgstr ""
+
+#: includes/admin.php:324
+msgid "Card Theme"
+msgstr ""
+
+#: includes/admin.php:336 includes/admin.php:376 includes/admin.php:416
+msgid "Orange"
+msgstr ""
+
+#: includes/admin.php:353
+msgid "Label Design"
+msgstr ""
+
+#: includes/admin.php:364
+msgid "Label Theme"
+msgstr ""
+
+#: includes/admin.php:393
+msgid "List Design"
+msgstr ""
+
+#: includes/admin.php:404
+msgid "List Theme"
+msgstr ""
+
+#: includes/admin.php:437
+msgid "Full Width"
+msgstr ""
+
+#: includes/admin.php:439
+msgid "Round Corners"
+msgstr ""
+
+#: includes/admin.php:445
+msgid "Marketcap Price Format"
+msgstr ""
+
+#: includes/admin.php:450
+msgid "Text"
+msgstr ""
+
+#: includes/admin.php:450 includes/shortcodes.php:22
+msgid "Billion"
+msgstr ""
+
+#: includes/admin.php:451
+msgid "Numbers"
+msgstr ""
+
+#: includes/admin.php:458 includes/admin.php:472
+msgid "Currency"
+msgstr ""
+
+#: includes/admin.php:487
+msgid "Custom Text Color"
+msgstr ""
+
+#: includes/admin.php:496
+msgid "Custom Background Color"
+msgstr ""
+
+#: includes/admin.php:505
+msgid "Real Time"
+msgstr ""
+
+#: includes/admin.php:509
+msgid "On"
+msgstr ""
+
+#: includes/admin.php:512
+msgid "Off"
+msgstr ""
+
+#: includes/admin.php:520
+msgid "Publish or update to preview"
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:548
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:550
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:552
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/shortcodes.php:22
+msgid "Thousand"
+msgstr ""
+
+#: includes/shortcodes.php:22
+msgid "Million"
+msgstr ""
+
+#: includes/shortcodes.php:22
+msgid "Trillion"
+msgstr ""
+
+#: includes/shortcodes.php:268
+msgid "Convert"
+msgstr ""
+
+#: includes/shortcodes.php:395
+msgid "1h"
+msgstr ""
+
+#: includes/shortcodes.php:397
+msgid "24h"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:258
+msgctxt "Post Type General Name"
+msgid "Massive Cryptocurrency Widgets"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:259
+msgctxt "Post Type Singular Name"
+msgid "Massive Cryptocurrency Widgets"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:260
+msgid "Massive Crypto"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:261
+msgid "Post Type"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:262
+msgid "Widget Archives"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:263
+msgid "Widget Attributes"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:264
+msgid "Parent Widget:"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:265
+msgid "All Widgets"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:266
+msgid "Add New Crypto Widget"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:267
+msgid "Add New"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:268
+msgid "New Widget"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:269
+msgid "Edit Widget"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:270
+msgid "View Widget"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:271
+msgid "View Widgets"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:272
+msgid "Search Widget"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:273
+msgid "Not found"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:274
+msgid "Not found in trash"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:275
+msgid "Featured Image"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:276
+msgid "Set featured image"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:277
+msgid "Remove featured image"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:278
+msgid "Use as featured image"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:279
+msgid "Insert into widget"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:280
+msgid "Uploaded to this widget"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:281
+msgid "Widgets list"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:282
+msgid "Widgets list navigation"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:283
+msgid "Filter widgets list"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:286
+msgid "Massive Cryptocurrency Widgets"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:287
+msgid "Post Type Description"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:323
+#: massive-cryptocurrency-widgets.php:345
+msgid "Shortcode"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:344
+msgid "Crypto Widget Settings"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:346
+msgid "Quick Links"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:352
+msgid "Rate us 5 stars"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:353
+msgid "Visit homepage"
+msgstr ""
+
+#: massive-cryptocurrency-widgets.php:354
+msgid "Contact support"
+msgstr ""
